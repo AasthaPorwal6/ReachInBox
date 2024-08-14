@@ -20,4 +20,4 @@ Reachinbox is a sophisticated web application designed to optimize email managem
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AasthaPorwal6/ReachInBox.git
